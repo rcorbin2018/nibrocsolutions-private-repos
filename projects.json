@@ -4,11 +4,11 @@
       "id": "homeschool-tracker",
       "title": "Home School Tracker",
       "summary": "Web Application to track home school progress",
-      "tags": ["TypeScript", "React"],
+      "tags": ["Python"],
       "repoUrl": "https://github.com/nibrocsolutions/home-school-tracker",
       "demoUrl": "http://homeschool.nibrocsolutions.com:8080/",
-      "featured": false,
-      "order": 2
+      "featured": true,
+      "order": 1
     }
   ]
 }
