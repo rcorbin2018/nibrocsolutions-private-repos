@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "id": "client-portal",
+      "title": "Client Portal",
+      "summary": "Private client delivery — demo available when a public preview is published.",
+      "tags": ["TypeScript", "React"],
+      "repoUrl": "https://github.com/nibrocsolutions/client-portal",
+      "demoUrl": "",
+      "featured": false,
+      "order": 10
+    }
+  ]
+}
